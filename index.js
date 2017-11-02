@@ -1,5 +1,7 @@
 var shout = shout.toUpperCase()
- === shout
+ === shout;
+
+ var whisper = whisper.toLowerCase() === whisper;
 function shout(string) {
   return string.toUpperCase();
 }
